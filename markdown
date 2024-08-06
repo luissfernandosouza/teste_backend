@@ -10,11 +10,11 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/meusistema.git
+   git clone https://github.com/seuusuario/teste_backend.git
 
 2. Acesse o diretório do projeto:
 
-cd meusistema
+cd teste_backend
 
 3. Execute o Docker Compose:
 
