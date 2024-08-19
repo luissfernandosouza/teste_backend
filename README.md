@@ -22,7 +22,7 @@ docker-compose up -d
 
 4. Acesse a aplicação no navegador:
 
-http://localhost:8081
+http://localhost:8080
 
 5. Para gerenciar dependências com o Composer:
 
