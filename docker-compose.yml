@@ -15,7 +15,7 @@ services:
     restart: always
     environment:
       POSTGRES_USER: user
-      POSTGRES_PASSWORD: password
+      POSTGRES_PASSWORD: 1234
       POSTGRES_DB: meusistema
     ports:
       - "5432:5432"
